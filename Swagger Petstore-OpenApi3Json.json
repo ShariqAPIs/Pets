@@ -462,6 +462,13 @@
                 "type": "string"
               }
             }
+          },
+          {
+            "schema": {
+              "type": "string"
+            },
+            "in": "query",
+            "name": "fghjk"
           }
         ],
         "responses": {
