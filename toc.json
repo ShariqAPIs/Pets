@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "type": "item",
+      "title": "SDF",
+      "uri": "docs/SDF.md"
+    },
+    {
+      "type": "divider",
+      "title": "APIS"
+    },
+    {
+      "type": "item",
+      "title": "Swagger Petstore-OpenApi3Json.json",
+      "uri": "Swagger Petstore-OpenApi3Json.json"
+    },
+    {
+      "type": "item",
+      "title": "Test.yaml",
+      "uri": "reference/Test.yaml"
+    }
+  ]
+}
